@@ -5,7 +5,8 @@
 - Fuzzy logic may be used by quantitative analysts to improve the execution of their algorithms.
 - Because of the similarities with ordinary language, fuzzy algorithms are comparatively simple to code, but they may require thorough verification and testing.
 
-  #Project setup
+  # Project setup
+  
    Create virtual environment
   `pip install virtualenv`
   `virtualenv venv`

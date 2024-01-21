@@ -8,15 +8,19 @@
   # Project setup
   
    Create virtual environment
+  
   `pip install virtualenv`
   `virtualenv venv`
 
   Activate environment
+
   `venv\Scripts\activate`
   
   Install requirements
+  
   `pip install -r requirements.txt`
 
   Run script
+  
   `python main.py`
   
